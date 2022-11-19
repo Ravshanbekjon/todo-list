@@ -1,0 +1,23 @@
+.container {
+    max-width: 800px;
+}
+
+.form {
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.list {
+    padding: 0px;
+}
+
+.list li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 0 2px gray;
+    padding: 5px 10px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
